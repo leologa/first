@@ -1,0 +1,5 @@
+<dependencies defaultconf="*-&gt;@">
+<!--dependency conf="*-&gt;rel" e:ivydom="ivy-csf" name="cat/ess-csf/csf_eth_health_pkg_all" org="com.cat.e" rev="CSF_ETH_HEALTH_2023.1.0_LATCHED_FAULT_ATEST_1"/-->
+<!--dependency conf="*-&gt;rel" e:ivydom="ivy-csf" name="cat/ess-csf/csns_prgs/csns_engine_a6_pkg/tgt_ar_diab_5.9.4.0_PPCVLEEF_pkg" org="com.cat.e" rev="2024.1.0"/-->
+<!--dependency conf="*-&gt;rel" e:ivydom="ivy-csf" name="cat/ess-csf/csw_a6e4_pkg" org="com.cat.e" rev="2023.1.0"/-->
+</dependencies>
